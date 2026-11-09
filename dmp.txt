@@ -1,0 +1,90 @@
+]11;?\[6n]11;?\[6n🐷🔑🐷  TruffleHog. Unearth your secrets. 🐷🔑🐷
+
+2026-11-09T15:48:32+07:00	info-0	trufflehog	running source	{"source_name": "trufflehog - filesystem", "source_type": "SOURCE_TYPE_FILESYSTEM", "source_id": 1, "job_id": 1, "source_manager_worker_id": "TA4eK", "with_units": true}
+[1;37mFound unverified result 🐷🔑❓
+[0m[37mDetector Type: GCPApplicationDefaultCredentials
+[0m[37mDecoder Type: PLAIN
+[0m[37mRaw result: [37m6ccc8eccb6aa-96c7e2bc6370fa15dbaffdc90575453a[0m
+[0m[37mFile: /Users/mac/decoy-home/.config/gcloud/application_default_credentials.json
+[0m[37mLine: 6
+[0m
+[1;37mFound unverified result 🐷🔑❓
+[0m[37mDetector Type: GCP
+[0m[37mDecoder Type: PLAIN
+[0m[37mRaw result: [37madvsim-decoy-5c5c9e@advsim-dummy-project.iam.gserviceaccount.com[0m
+[0m[37mRotation_guide: https://howtorotate.com/docs/tutorials/gcp/
+[0m[37mProject: advsim-dummy-project
+[0m[37mPrivate_key_id: 3c7cf75c0cf8024d6ac2117b79451b0e1879181c
+[0m[37mFile: /Users/mac/decoy-home/.config/gcloud/advsim-sa-20261109150900-ff7e67.json
+[0m[37mLine: 9
+[0m
+[1;37mFound unverified result 🐷🔑❓
+[0m[37mDetector Type: AWS
+[0m[37mDecoder Type: PLAIN
+[0m[37mRaw result: [37mAKIAZW6V2KISWY3THWDC[0m
+[0m[37mResource_type: Access key
+[0m[37mAccount: 667778961957
+[0m[37mFile: /Users/mac/decoy-home/.aws/credentials
+[0m[37mLine: 4
+[0m
+[1;37mFound unverified result 🐷🔑❓
+[0m[37mDetector Type: PrivateKey
+[0m[37mDecoder Type: PLAIN
+[0m[37mRaw result: [37m-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBIJEHWmdd3uru
+fN7djFi7x9Ex5FT19EDUVTHKpQkWsiJtJELOLZlSGdIdeEon5JYbWxeZ1f9njDIM
+pQnkNz2vwJhchmOSOLTFK3yLS585LBXjumDX9W6VVlz9/JGqV0557pjWd8AwOgHq
+tlmC3KxExftZogPeyhj2ROg4nlPMZoR6sbAwfcrROdQGmnP3hrFMVDbPaB6hr36R
++5MUZpWmpmIyidU0Dhd7Qi121aZ6DyF5A2dXOY6O6478yjOaMwXhsVuQAva0farL
+WrgqoNgMfa+ESlUwTZyPL/tq/GKkv5OXKcyWlKyPXC+ayxQVnro+cNrKZEZpwJSY
+H+WZSKNNAgMBAAECggEAENWmprov6/wYRQEwCSZofrfoiZ2SdV0dAJVLkZNIw0h0
+XUitpRzO8lvrV6PKbQdNOWW7nS6NBKjxHO6O+eyBzU3vyhLx34dfZJeJk/fb0YdB
+AjiXJAQSJ2Tflsk7JlrVbaYJfxpxr5KC48OQ8moLfzQ12IaZqUQ7IE554qOUgOrg
+22TFBYy/RdIS0+sz1dfDTVuTeh16sVt2J4ngF5tfk0Zye8dsmQM68tIQgkFnlys9
+U+m+pEeAy6TJdVCKj7LGK+HyrSjdorT2LRhQbd8XBlaeBQgilkV8lJ8FpDl3w7Sl
+/OqpiyxNkPdyAE3awE0ejlD0ULXCLIvWlycXGkil8QKBgQD1BEGIWhdBtnUkCcOd
+QbMtxWKTEkj5ZvdJSciC8sC+swB+YVF9WKuf8x78QKqSPeP3Coz1vc1HKE6bsCf+
+7uWj9V0HeWVd92vyHKRvQb2tZh6VWix/JGYK39Jtpx/iKoSN3h1SMVeuwlnIcOMj
+KILPp6BnXyNIyC/3d9Gwaz5vMQKBgQDJyNd++K5PXHg7QKwN4hAA5+OWVNW1BCGv
+F6TvjcrBsWdSGcwdzkjqIuUw82b3Tjlqhz2QSIUAJ4C5thlJwPFSbv74V5GbfcG0
+G+4+JYGJebLfnGQ7AyEaabYz303GqBPCIdXA0FLQuvA7r1FkgC1A+nnNBkRBipNl
+rtJ1g1+G3QKBgQCHgmEUHm96YoUK93N+x9VnXSGVoalGdpIRsIL7GXNMhQei3gQJ
+xT62aeobLVCpLR2lhepMBzs/PaWsKZMVRd8v/QYEmjlb7PmAoCK5fax/+Fi11XeC
+ogjlvsBM8P+LQGSracrhqHSMLOUnHHgi+8bNPjJSuaV0HXOZ9GS+o7GWIQKBgGla
+7fkjio9xLm1xhOPyxnxSluek/7f1okizRbC2Dck4AURCp+pgDH4DHjuCup4hP6U5
+W5F768V62qEcTPPPQ7DQt1ufDS1sabjKZIgaORo4aoaKN2MAbUZHL5TB4O/6Teas
+l9iGbNcC4++lyA97RSWKIhJEVVsLKY6LyuMEZtoZAoGBAJ+4sjmhKQ8uIVsc5hig
+s1dit9oWLhLjU4kjuGzTYrOo/9KAYyr98HHWKobESd8UFt01qe4W3ZeR/3mQAOB3
+7d0OaFUQZglF8YsMalLjl+h6SMrY36wOHzP/JxLU57tei3+uoZrzzVBT37xTkTl0
+GxRgKiLKeJhPAXHdNMh7spuT
+-----END PRIVATE KEY-----[0m
+[0m[37mFile: /Users/mac/decoy-home/.config/gcloud/advsim-sa-20261109150900-ff7e67.json
+[0m[37mLine: 8
+[0m
+[1;37mFound unverified result 🐷🔑❓
+[0m[37mDetector Type: URI
+[0m[37mDecoder Type: PLAIN
+[0m[37mRaw result: [37mhttps://advsim:ADVSIM-DUMMY-B5v7VVZE6WQ8ZKWZLyWljtqka1jmZTpn@gitlab.com[0m
+[0m[37mFile: /Users/mac/decoy-home/.git-credentials
+[0m[37mLine: 5
+[0m
+[1;37mFound unverified result 🐷🔑❓
+[0m[37mDetector Type: URI
+[0m[37mDecoder Type: PLAIN
+[0m[37mRaw result: [37mhttps://advsim:ADVSIM-DUMMY-k4NYrVszDSJXNvvHGNOBFZS2IR0Hq4lk@github.com[0m
+[0m[37mFile: /Users/mac/decoy-home/.git-credentials
+[0m[37mLine: 4
+[0m
+[1;37mFound unverified result 🐷🔑❓
+[0m[33mVerification issue: lookup db.advsim.example.local: no such host
+[0m[37mDetector Type: Postgres
+[0m[37mDecoder Type: PLAIN
+[0m[37mRaw result: [37mpostgres://advsim:ADVSIM-DUMMY_kWFqk6cPJTl0XXgo@db.advsim.example.local:5432[0m
+[0m[37mSslmode: <unset>
+[0m[37mHost: db.advsim.example.local:5432
+[0m[37mUsername: advsim
+[0m[37mDatabase: advsim_dummy
+[0m[37mFile: /Users/mac/decoy-home/.env
+[0m[37mLine: 5
+[0m
+2026-11-09T15:48:37+07:00	info-0	trufflehog	finished scanning	{"chunks": 14, "bytes": 8300, "verified_secrets": 0, "unverified_secrets": 7, "scan_duration": "5.1762305s", "trufflehog_version": "3.99.8", "verification_caching": {"Hits":0,"Misses":6,"HitsWasted":0,"AttemptsSaved":0,"VerificationTimeSpentMS":10258}}
